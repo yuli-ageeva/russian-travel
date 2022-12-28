@@ -1,6 +1,5 @@
 .place__website {
-    display: flex;
-    justify-content: flex-end;
-    flex-direction: column;
-
+  display: flex;
+  justify-content: flex-end;
+  flex-direction: column;
 }

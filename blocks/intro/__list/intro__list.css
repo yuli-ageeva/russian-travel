@@ -1,10 +1,10 @@
 .intro__list {
-    font-style: normal;
-    font-weight: 700;
-    font-size: 12px;
-    line-height: 1.2;
-    list-style: none;
-    max-width: 690px;
-    margin: 33px 0 0 0;
-    padding: 0;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 150%;
+  list-style: none;
+  max-width: 690px;
+  margin: 33px 0 0 0;
+  padding: 0;
 }
