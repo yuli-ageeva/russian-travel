@@ -7,6 +7,7 @@
     line-height: 1.375;
     text-decoration-line: underline;
 }
+
 .place__link:hover {
     opacity: 80%;
     transition: ease-in 1s;
