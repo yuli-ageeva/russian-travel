@@ -10,19 +10,23 @@
 
 @media screen and (max-width:1279px) and (min-width:1024px) {
   .header {
-    margin: auto 46px;
+    margin: auto 20px;
   }
 }
 
 @media screen and (max-width:1023px) and (min-width:768px) {
   .header {
-    margin: auto 24px;
+    margin: 0 auto;
+    padding-left: 24px;
+    padding-right: 24px;
   }
 }
 
 @media screen and (max-width:767px) and (min-width:320px) {
   .header {
-    margin: auto 0;
     padding-top: 16px;
+    padding-left: 16px;
+    padding-right: 16px;
+
   }
 }

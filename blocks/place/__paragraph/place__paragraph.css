@@ -12,6 +12,10 @@
   margin-bottom: 26px;
 }
 
+.place__paragraph:last-of-type {
+  margin-bottom: 0;
+}
+
 @media screen and (max-width:1023px) and (min-width:768px) {
   .place__paragraph {
     font-size: 16px;
@@ -22,5 +26,9 @@
   .place__paragraph {
     padding-left: 16px;
     padding-right: 16px;
+  }
+
+  .place__paragraph:first-of-type {
+    margin-bottom: 24px;
   }
 }

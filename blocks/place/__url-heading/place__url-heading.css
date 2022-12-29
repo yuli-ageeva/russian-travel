@@ -6,6 +6,8 @@
   line-height: 0.75;
   color: #AAAAAA;
   letter-spacing: 2px;
+  text-transform: uppercase;
+  margin: 0;
 }
 
 @media screen and (max-width:767px) and (min-width:320px) {

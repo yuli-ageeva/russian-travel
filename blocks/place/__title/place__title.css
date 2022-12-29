@@ -5,13 +5,13 @@
   font-size: 72px;
   line-height: 106%;
   margin: 0;
+  color: #FFF;
 }
 
 @media screen and (max-width:1023px) and (min-width:768px) {
   .place__title {
     font-size: 42px;
     line-height: 110%;
-    color: #FFFFFF;
   }
 }
 
