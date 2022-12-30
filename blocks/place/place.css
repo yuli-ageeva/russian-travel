@@ -30,7 +30,7 @@
   .place {
     grid-template-columns: 320px;
     gap: 32px;
-    margin-bottom: 64px;
+    margin-bottom: 50px;
     justify-content: space-around;
   }
 }
