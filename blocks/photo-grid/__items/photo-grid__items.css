@@ -1,10 +1,10 @@
 .photo-grid__items {
-  margin: 0;
+  margin: 0 auto;
   padding: 0;
   list-style-type: none;
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(284px, 1fr));
-  gap: 14px;
+  gap: 16px;
   max-width: 1184px;
 }
 
@@ -12,6 +12,7 @@
   .photo-grid__items {
     max-width: 928px;
     padding: 0 48px;
+    gap: 14px;
   }
 }
 
@@ -19,6 +20,7 @@
   .photo-grid__items {
     max-width: 768px;
     padding: 0 24px;
+    gap: 16px;
   }
 }
 
@@ -26,6 +28,6 @@
   .photo-grid__items {
     min-width: 288px;
     padding: 0 16px;
-    gap: 8px;
+    gap: 12px;
   }
 }

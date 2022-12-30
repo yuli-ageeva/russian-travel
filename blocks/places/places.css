@@ -1,5 +1,5 @@
 .places {
-  margin: 80px auto;
+  margin: 92px auto;
 }
 
 @media (max-width:1279px) and (min-width:1024px) {
@@ -13,7 +13,7 @@
   .places {
     max-width: 768px;
     padding: 0 24px;
-    margin: 110px auto 80px;
+    margin: 88px auto 90px;
   }
 }
 
